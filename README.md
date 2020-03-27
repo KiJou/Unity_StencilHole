@@ -1,5 +1,5 @@
 # Unity_StencilHole
-Use the stencil buffer to dig holes in the mesh, without any c# script in Unity
+Use the stencil buffer to dig holes in the mesh, without any c# script in Unity.
 
 Screenshots:
 
